@@ -2,7 +2,7 @@
 ## Computational Analysis and Modelling in Physics
 
 ### Description
-Computational models in physics, numerical simulation of physical systems, stochastic simulation and algorithms, image processing, multidimensional detection techniques, and pattern recognition.
+Computational models in physics; numerical simulation of physical systems; stochastic simulation and algorithms; image processing; multidimensional detection techniques; pattern recognition
 
 ### Course Topics
 1. Image and Video Processing
