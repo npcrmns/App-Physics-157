@@ -12,3 +12,53 @@
 \[2\] Fourier Transform Model of Image Formation/Images for correlation.pptx
 \[3\] Properties and Applications of the 2D Fourier Transform/Filtered masks.pptx
 \[3\] Properties and Applications of the 2D Fourier Transform/Fingerprint mask.pptx
+*.jar
+*.cfg
+*.dll
+*.exe
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/classlist
+*.pf
+*.properties
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/bin/server/Xusage.txt
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/ASSEMBLY_EXCEPTION
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/DISCLAIMER
+*.data
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/ext/meta-index
+*.bfc
+*.src
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/invalid32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_CopyDrop32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_CopyNoDrop32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_LinkDrop32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_LinkNoDrop32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_MoveDrop32x32.gif
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/images/cursors/win32_MoveNoDrop32x32.gif
+*.jfc
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/jvm.hprof.txt
+*.access
+*.template
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/meta-index
+*.ja
+*.certs
+*.policy
+*.security
+*.dat
+*.txt
+*.html
+*.lut
+*.ijm
+*.bsh
+*.java
+*.js
+*.py
+*.class
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/security/cacerts
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/lib/tzmappings
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/LICENSE
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/release
+\[4\] Feature Extraction using ImageJ/ImageJ/jre/THIRD_PARTY_README
+\[4\] Feature Extraction using ImageJ/ImageJ/macros/About Startup Macros
+\[4\] Feature Extraction using ImageJ/ImageJ/macros/Examples/Images/Tree.jpg
+\[4\] Feature Extraction using ImageJ/ImageJ/macros/Examples/Images/Tree2.jpg
+\[4\] Feature Extraction using ImageJ/ImageJ/plugins/Examples/_Macros/MakeOverlayijm
+\[4\] Feature Extraction using ImageJ/ImageJ/plugins/Examples/_Scripts/About Scripts
